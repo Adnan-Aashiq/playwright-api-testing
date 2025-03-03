@@ -1,1 +1,4 @@
 /node_modules
+/test-results
+test-results/.last-run.json
+/test-results

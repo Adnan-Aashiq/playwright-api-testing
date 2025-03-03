@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test:local": "PLAYWRIGHT_ENV=local npx playwright test",
-    "test:staging": "PLAYWRIGHT_ENV=staging npx playwright test"
+    "test:local": "npx playwright test",
+    "test:staging": "npx playwright test"
   },
   "keywords": [],
   "author": "",
