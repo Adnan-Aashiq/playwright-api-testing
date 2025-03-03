@@ -1,4 +1,4 @@
-# Playwright QA Automation Project 🚀
+# Playwright API's QA Automation Project
 
 **Get Started**
 
