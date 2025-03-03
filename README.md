@@ -3,7 +3,7 @@
 **Get Started**
 
 1. Clone this repository to your local machine.
-    - git clone `https://github.com/Adnan-Aashiq/playwright-qa-project.git`
+    - git clone `https://github.com/Adnan-Aashiq/playwright-api-testing.git`
 
 2. Install dependencies.
     - `npm install`
@@ -16,7 +16,7 @@
 
 5. Run Cypress tests.
 
-    - 3.1 Open terminal in the cloned folder and type `npm run test:local`. **OR** After this Playwright automaticallty creates test-results folder in the directory in the folder there is a json file where you can see the test results.
+    - 3.1 Open terminal in the cloned folder and type `npm run test:local`. After this Playwright automaticallty creates test-results folder in the directory in the folder there is a json file where you can see the test results.
   
 **Notes**
 Ensure you have Node.js and npm installed on your machine.
